@@ -1,0 +1,39 @@
+manager#:#News Manager
+configuration#:#Configuration
+editor_create#:#Create new entry
+editor_edit#:#Edit entry
+newsman_editor#:#NewsMan Editor
+newsman_administration#:#NewsMan Administration
+err_load_entry_by_id#:#Could not load Entry by id:
+author#:#Autor
+created_at#:#Created
+updated_at#:#Last Update
+new_entry#:#New Entry
+activate#:#Activate
+deactivate#:#Deactivate
+delete#:#Delete
+no_ids_given#:#No entries selected
+question_delete#:#Delete entries?
+delete_successful#:#Successful deleted
+delete_failed#:#Failed to delete
+delete_failed_for#:#Failed to delete this entries:
+question_activate#:#Activate entries?
+activate_successful#:#Successful activated
+activate_failed#:#Activation failed
+activate_failed_for#:#Activation failed for:
+question_deactivate#:#Deactivate entries?
+deactivate_successful#:#Successful deactivated
+deactivate_failed#:#Deactivation failed
+deactivate_failed_for#:#Deactivation failed for:
+section_defaults#:#Entry defaults
+default_set_active#:#Set active
+default_set_active_info#:#If enabled, new entries are active instantly after creation.
+support_lang#:#Language support
+support_lang_info#:#If enabled, news are bound to specified languages. They will be shown only if the user uses the selected language. The language for each news may be selected at the editor.
+default_lang#:#Default language
+section_editor#:#Editor Configuration
+content_min_chars#:#Minimum characters
+content_min_chars_info#:#Specify the minimum amount of characters, that are required to save a new entry. (default: 1)
+content_max_chars#:#Maximum characters
+content_max_chars_info#:#Specify the maximum amount of characters, that can be written at a new entry. (default: 9999)
+content_allowed_tags#:#Allowed HTML tags

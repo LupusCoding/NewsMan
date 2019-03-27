@@ -1,0 +1,39 @@
+manager#:#News Manager
+configuration#:#Konfiguration
+editor_create#:#Eintrag erstellen
+editor_edit#:#Eintrag bearbeiten
+newsman_editor#:#NewsMan Editor
+newsman_administration#:#NewsMan Administration
+err_load_entry_by_id#:#Eintrag konnte nicht geladen werden. ID:
+author#:#Autor
+created_at#:#Erstellt
+updated_at#:#Zuletzt geändert
+new_entry#:#Neuer Eintrag
+activate#:#Aktivieren
+deactivate#:#Deaktivieren
+delete#:#Löschen
+no_ids_given#:#Keine Einträge ausgewählt
+question_delete#:#Einträge löschen?
+delete_successful#:#Einträge erfolgreich gelöscht
+delete_failed#:#Löschen fehlgeschlagen
+delete_failed_for#:#Folgende Einträge konnten nicht gelöscht werden:
+question_activate#:#Einträge aktivieren?
+activate_successful#:#Aktivierung erfolgreich
+activate_failed#:#Aktivierung fehlgeschlagen
+activate_failed_for#:#Folgende Einträge konnten nicht aktiviert werden:
+question_deactivate#:#Einträge deaktivieren?
+deactivate_successful#:#Deaktivierung erfolgreich
+deactivate_failed#:#Deaktivierung fehlgeschlagen
+deactivate_failed_for#:#Folgende Einträge konnten nicht deaktiviert werden:
+section_defaults#:#Standardeinstellungen für Einträge
+default_set_active#:#Aktiv
+default_set_active_info#:#Ist diese Einstellung ausgewählt, sind neue Einträge nach der Erstellung sofort aktiv.
+support_lang#:#Sprachunterstützung
+support_lang_info#:#Ist diese Einstellung ausgewählt, können Einträge einer Sprache zugewiesen werden. Einträge werden nur noch angezeigt wenn der Benutzer die entsprechende Sprache nutzt. Die Sprache des jeweiligen Eintrags kann im Editor eingestellt werden.
+default_lang#:#Standardsprache
+section_editor#:#Editor Eintellungen
+content_min_chars#:#Minimum Zeichen
+content_min_chars_info#:#Minimale Anzahl der Zeichen, die ein neuer Eintrag benötigt. (Standard: 1)
+content_max_chars#:#Maximum Zeichen
+content_max_chars_info#:#Maximale Anzahl der Zeichen, die ein neuer Eintrag haben darf. (Standard: 9999)
+content_allowed_tags#:#Erlaubte HTML-Tags
